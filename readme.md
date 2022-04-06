@@ -1,8 +1,11 @@
 comandos:
-yarn init -y
-yarn add express
-yarn add nodemon -D
-yarn start
+    yarn init -y
+
+    yarn add express
+
+    yarn add nodemon -D
+
+    yarn start
 
 docker-compose up
 
