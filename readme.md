@@ -1,14 +1,14 @@
 comandos:
 
-    yarn init -y
+        yarn init -y
 
-    yarn add express
+        yarn add express
 
-    yarn add nodemon -D
+        yarn add nodemon -D
 
-    yarn start
+        yarn start
 
-docker-compose up
+        docker-compose up
 
 derivado de:
 
